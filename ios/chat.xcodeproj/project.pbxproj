@@ -14,6 +14,14 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-chat-chatTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-chat-chatTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		526A0F599D56468EA89A07B1 /* RedditMono-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 33D607AD261C4F09A15473AD /* RedditMono-Black.ttf */; };
+		D6727D0136B9415581613DDA /* RedditMono-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1CD48225482A4108AAAC5E70 /* RedditMono-Bold.ttf */; };
+		A5C029A1E48546EBA3A8F8C9 /* RedditMono-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 30BC95192BBA4729ABFAF1DD /* RedditMono-ExtraBold.ttf */; };
+		D4914648761144859B2A1587 /* RedditMono-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E1B7D6B524E346B3A2A813E5 /* RedditMono-ExtraLight.ttf */; };
+		D9956A312C1B4B2AB0F94875 /* RedditMono-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3C967D06092A41438B3AB871 /* RedditMono-Light.ttf */; };
+		CCD5297B06C44F1581113805 /* RedditMono-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 79DE0EF801144450A047C5EE /* RedditMono-Medium.ttf */; };
+		336E47476D9E422BABC4E8FB /* RedditMono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7F930A3B5A194C40B7655A22 /* RedditMono-Regular.ttf */; };
+		61A568D389BC442785DF0474 /* RedditMono-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FC7F72F8B2224387B5DB03F1 /* RedditMono-SemiBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +44,7 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = chat/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = chat/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = chat/main.m; sourceTree = "<group>"; };
-	    13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = chat/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = chat/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-chat-chatTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-chat-chatTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-chat.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chat.debug.xcconfig"; path = "Target Support Files/Pods-chat/Pods-chat.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-chat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chat.release.xcconfig"; path = "Target Support Files/Pods-chat/Pods-chat.release.xcconfig"; sourceTree = "<group>"; };
@@ -45,6 +53,14 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = chat/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-chat-chatTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-chat-chatTests.release.xcconfig"; path = "Target Support Files/Pods-chat-chatTests/Pods-chat-chatTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		33D607AD261C4F09A15473AD /* RedditMono-Black.ttf */ = {isa = PBXFileReference; name = "RedditMono-Black.ttf"; path = "../src/assets/fonts/RedditMono-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1CD48225482A4108AAAC5E70 /* RedditMono-Bold.ttf */ = {isa = PBXFileReference; name = "RedditMono-Bold.ttf"; path = "../src/assets/fonts/RedditMono-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		30BC95192BBA4729ABFAF1DD /* RedditMono-ExtraBold.ttf */ = {isa = PBXFileReference; name = "RedditMono-ExtraBold.ttf"; path = "../src/assets/fonts/RedditMono-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E1B7D6B524E346B3A2A813E5 /* RedditMono-ExtraLight.ttf */ = {isa = PBXFileReference; name = "RedditMono-ExtraLight.ttf"; path = "../src/assets/fonts/RedditMono-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3C967D06092A41438B3AB871 /* RedditMono-Light.ttf */ = {isa = PBXFileReference; name = "RedditMono-Light.ttf"; path = "../src/assets/fonts/RedditMono-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		79DE0EF801144450A047C5EE /* RedditMono-Medium.ttf */ = {isa = PBXFileReference; name = "RedditMono-Medium.ttf"; path = "../src/assets/fonts/RedditMono-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7F930A3B5A194C40B7655A22 /* RedditMono-Regular.ttf */ = {isa = PBXFileReference; name = "RedditMono-Regular.ttf"; path = "../src/assets/fonts/RedditMono-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FC7F72F8B2224387B5DB03F1 /* RedditMono-SemiBold.ttf */ = {isa = PBXFileReference; name = "RedditMono-SemiBold.ttf"; path = "../src/assets/fonts/RedditMono-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +140,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				76774C1479D54400A285BA3B /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -149,6 +166,22 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		76774C1479D54400A285BA3B /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				33D607AD261C4F09A15473AD /* RedditMono-Black.ttf */,
+				1CD48225482A4108AAAC5E70 /* RedditMono-Bold.ttf */,
+				30BC95192BBA4729ABFAF1DD /* RedditMono-ExtraBold.ttf */,
+				E1B7D6B524E346B3A2A813E5 /* RedditMono-ExtraLight.ttf */,
+				3C967D06092A41438B3AB871 /* RedditMono-Light.ttf */,
+				79DE0EF801144450A047C5EE /* RedditMono-Medium.ttf */,
+				7F930A3B5A194C40B7655A22 /* RedditMono-Regular.ttf */,
+				FC7F72F8B2224387B5DB03F1 /* RedditMono-SemiBold.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -245,6 +278,14 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				526A0F599D56468EA89A07B1 /* RedditMono-Black.ttf in Resources */,
+				D6727D0136B9415581613DDA /* RedditMono-Bold.ttf in Resources */,
+				A5C029A1E48546EBA3A8F8C9 /* RedditMono-ExtraBold.ttf in Resources */,
+				D4914648761144859B2A1587 /* RedditMono-ExtraLight.ttf in Resources */,
+				D9956A312C1B4B2AB0F94875 /* RedditMono-Light.ttf in Resources */,
+				CCD5297B06C44F1581113805 /* RedditMono-Medium.ttf in Resources */,
+				336E47476D9E422BABC4E8FB /* RedditMono-Regular.ttf in Resources */,
+				61A568D389BC442785DF0474 /* RedditMono-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
